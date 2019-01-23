@@ -1,7 +1,8 @@
 [
   {
     "title": "testing passing stuffs",
-    "body": "<p> hello there, trying to pass stuffs here",
+    "subtitle": "",
+    "body": "<p> hello there, trying to pass stuffs here</p> <p>Successfully parsed data from json served on github!</p>",
     "id": 1
   }
 ]
