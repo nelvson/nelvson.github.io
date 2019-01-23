@@ -1,0 +1,12 @@
+[
+  {
+    "response": 404,
+    "id": 1,
+    "message": "is also a palindrome on base negative 31!"
+  },
+  {
+    "response": 404,
+    "id": 2,
+    "message": "is the number of sided 10-hexes with holes"
+  }
+]
