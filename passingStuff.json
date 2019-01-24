@@ -10,6 +10,14 @@
     "title": "Four-oh-four!",
     "subtitle": "Greetings, lost souls and weary trevelers!",
     "id": 2,
-    "type": 404
+    "type": 404,
+    "message": "is also a palindrome on base negative 31!"
+  },
+  {
+    "title": "Four-oh-four!",
+    "subtitle": "Greetings, lost souls and weary trevelers!",
+    "id": 3,
+    "type": 404,
+    "message": "is the number of sided 10-hexes with holes"
   }
 ]
