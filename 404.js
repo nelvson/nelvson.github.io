@@ -2,7 +2,6 @@ const PAGE_TYPE = 404;
 let root = document.getElementById('root');
 const PASSING_STUFF =
   'https://raw.githubusercontent.com/nelvson/nelvson.github.io/master/passingStuff.json';
-//root.innerHTML = 'hello there general kenobi';
 fetch(PASSING_STUFF)
   .then((result) => result.json())
   .then((parsedJSON) => {

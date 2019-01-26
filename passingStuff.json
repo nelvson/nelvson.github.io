@@ -1,7 +1,7 @@
 [
   {
     "title": "testing passing stuffs",
-    "subtitle": "",
+    "subtitle": "Νελφςων",
     "body": "<p> hello there, trying to pass stuffs here</p> <p>Successfully parsed data from json served on github!</p>",
     "id": 1,
     "type": "foo"
@@ -19,5 +19,17 @@
     "id": 3,
     "type": 404,
     "message": "is the number of sided 10-hexes with holes"
+  },
+  {
+    "title": "Code Challange",
+    "subtitle": "",
+    "id": 4,
+    "type": "problem",
+    "language": "EN",
+    "body": "Have you ever played Minesweeper? It’s a cute little game which comes within a certain Operating System which name we can’t really remember. Well, the goal of the game is to find where are all the mines within a <i>M x N </i> field. To help you, the game ",
+    "input": "",
+    "output": "",
+    "sampleIn": "",
+    "sampleOut": ""
   }
 ]
